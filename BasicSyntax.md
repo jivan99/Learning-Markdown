@@ -32,3 +32,14 @@ This is the first line.
 This is a **bold text**.  
 Yet another syntax __bold__.
 
+<!-- ⭐️ Italic ⭐️ -->
+
+He is *cool*.  
+Yet another syntax _italic_.
+
+<!-- ⭐️ Bold & Italic ⭐️ -->
+
+It's ***Important***.  
+___Important___.  
+very __*important*__.  
+**_Important_** text.
