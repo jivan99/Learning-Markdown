@@ -17,3 +17,12 @@ Heading level 2
 
 Heading level 3
 ---
+
+<!-- ⭐️ Paragraphs ⭐️ -->
+
+I really like using Markdown.
+
+I think I'll use it fron now on.
+
+This is the first line.  
+& this is the second line.
