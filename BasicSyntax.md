@@ -26,3 +26,9 @@ I think I'll use it fron now on.
 
 This is the first line.  
 & this is the second line.
+
+<!-- ⭐️ Emphasis ⭐️ -->
+
+This is a **bold text**.  
+Yet another syntax __bold__.
+
