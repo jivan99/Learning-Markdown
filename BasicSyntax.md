@@ -11,3 +11,9 @@
 ##### Heading level 5
 
 ###### Heading level 6
+
+Heading level 2
+==
+
+Heading level 3
+---
