@@ -32,3 +32,24 @@ You can add links, code & emphasis but can't add headings, blockquotes, lists, h
 ## Escaping Pipe Characters in Tables
 
 You can display a pipe (|) character in a table by using its HTML character code (&#124;).
+
+<br>
+
+# Fenced Code Blocks
+
+```
+{
+	"firstname": "Jivan",
+	"lastName": "Katwal"
+}
+```
+<br>
+
+# Syntax Highlighting
+
+```json
+{
+	"firstname": "Jivan",
+	"lastName": "Katwal"
+}
+```
