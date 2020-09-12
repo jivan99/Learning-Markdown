@@ -113,3 +113,8 @@ very **_important_**.
         </html>
 
 3.  Update the title to match the name or your website.
+
+# Images
+
+![Learning](images/learning.jpg)
+<img src="./images/learning.jpg" alt="Learning">
