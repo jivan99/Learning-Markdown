@@ -182,3 +182,23 @@ https://example.com
 # Images
 
 ![Learning is awesome](images/learning.jpg "Awesome")
+
+# Escaping Characters
+
+\* Without the backslash, thiw would be a bulle in an unordered list.
+
+# Characters You Can Escape
+|Character  | Name         				|
+|-----------|---------------------|
+|  \        | backslash    				|
+|  `        | tickmark    				|
+|  *        | asterisk   				  |
+|  _        | underscore   				|
+|  {}       | curly braces 				|
+|  []       | brackets    				|
+|  ()       | parentheses   			|
+|  "        | pound sign    			|
+|  +        | plus sign   				|
+|  -        | minus sign   				|
+|  .        | dot         				|
+|  !        | exclamation mark		|
