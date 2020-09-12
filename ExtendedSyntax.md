@@ -21,7 +21,7 @@
 | Syntax    | Description |   Test Text |
 | :-------- | :---------: | ----------: |
 | Header    | Title&#124; | **Awesome** |
-| Paragraph |   _Text_    |     `Cool ` |
+| Paragraph |   _Text_    |      `Cool` |
 
 <br>
 
@@ -39,17 +39,24 @@ You can display a pipe (|) character in a table by using its HTML character code
 
 ```
 {
-	"firstname": "Jivan",
-	"lastName": "Katwal"
+ "firstname": "Jivan",
+ "lastName": "Katwal"
 }
 ```
+
 <br>
 
-# Syntax Highlighting
+# Syntax Highlighting {: #syntax}
 
 ```json
 {
-	"firstname": "Jivan",
-	"lastName": "Katwal"
+  "firstname": "Jivan",
+  "lastName": "Katwal"
 }
 ```
+
+# Heading IDs
+
+# Heading Link {: #custom-id}
+
+[Syntax Highlighting](#syntax)
