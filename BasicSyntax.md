@@ -157,3 +157,23 @@ Use [google.com](https://google.com 'My search engine!')
 
 I love supporting **[OSS](https://opensource.com)**  
 This is the _[OSS](https://opensource.com)_
+
+# Reference Style Links
+
+[Reference style link][reference]
+
+[reference]: https://mozilla.org
+
+[Relative Refrence style link](./README.md)
+
+[Using number for Reference style link][1]
+
+[1]: https://google.com
+
+Using the [link text itself].
+
+[link text itself]: https://github.com
+
+example.com
+
+https://example.com
