@@ -84,3 +84,10 @@ Second Term
 - [ ] Merge the branches to master branch
 
 [^1]: This is the footnote.
+
+# Collapse
+
+<details>
+	<summary>Click me!</summary>
+	This is an awesome collapse.
+</details>
