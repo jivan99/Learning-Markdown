@@ -55,6 +55,10 @@ You can display a pipe (|) character in a table by using its HTML character code
 }
 ```
 
+# Footnotes
+
+Here's a sentence with a footnote. [^1]
+
 # Heading IDs
 
 # Heading Link {: #custom-id}
@@ -78,3 +82,5 @@ Second Term
 
 - [x] Complete Markdown guide
 - [ ] Merge the branches to master branch
+
+[^1]: This is the footnote.
