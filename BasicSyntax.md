@@ -43,3 +43,22 @@ It's ***Important***.
 ___Important___.  
 very __*important*__.  
 **_Important_** text.
+
+<!-- ⭐️ Blockquotes ⭐️ -->
+> This is an awesome blockquote.
+
+> Blockquote with multiple paragraphs
+> 
+> This is the second paragraph.
+
+> First pragraph
+>
+>> Nested pagraph
+
+
+> ### Blockquotes with other elements
+>
+> - This is awesome
+> 
+> *Everything* works great.
+
