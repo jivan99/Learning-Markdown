@@ -134,3 +134,10 @@ At the bash terminal, type `echo hello`
 ***
 ---
 ___
+
+# Links
+Use [google.com](https://google.com)  
+
+### Link with an tilte.
+___
+Use [google.com](https://google.com 'My search engine!')
