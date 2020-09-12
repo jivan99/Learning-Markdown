@@ -60,3 +60,13 @@ You can display a pipe (|) character in a table by using its HTML character code
 # Heading Link {: #custom-id}
 
 [Syntax Highlighting](#syntax)
+
+# Definition Lists
+
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
+
