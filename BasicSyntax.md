@@ -131,18 +131,29 @@ At the bash terminal, type `echo hello`
 
 # Horizontal Rules
 
-***
 ---
-___
+
+---
+
+---
 
 # Links
-Use [google.com](https://google.com)  
+
+Use [google.com](https://google.com)
 
 ### Link with an tilte.
-___
+
+---
+
 Use [google.com](https://google.com 'My search engine!')
 
 # URLs & Email Addresses
+
 <https://google.com>
 
 <example@gmail.com>
+
+# Formatting Links
+
+I love supporting **[OSS](https://opensource.com)**  
+This is the _[OSS](https://opensource.com)_
