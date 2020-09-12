@@ -128,3 +128,9 @@ At the bash terminal, type `echo hello`
     	<script>
     		console.log('hello world!');
     	</script>
+
+# Horizontal Rules
+
+***
+---
+___
