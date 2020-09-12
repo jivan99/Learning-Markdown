@@ -177,3 +177,8 @@ Using the [link text itself].
 example.com
 
 https://example.com
+
+
+# Images
+
+![Learning is awesome](images/learning.jpg "Awesome")
