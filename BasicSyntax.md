@@ -141,3 +141,8 @@ Use [google.com](https://google.com)
 ### Link with an tilte.
 ___
 Use [google.com](https://google.com 'My search engine!')
+
+# URLs & Email Addresses
+<https://google.com>
+
+<example@gmail.com>
