@@ -118,3 +118,13 @@ very **_important_**.
 
 ![Learning](images/learning.jpg)
 <img src="./images/learning.jpg" alt="Learning">
+
+# Code & Code Blocks
+
+At the bash terminal, type `echo hello`
+
+`` Escaping `backtick` is cool.``
+
+    	<script>
+    		console.log('hello world!');
+    	</script>
