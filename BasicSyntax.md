@@ -12,11 +12,9 @@
 
 ###### Heading level 6
 
-Heading level 2
-==
+# Heading level 2
 
-Heading level 3
----
+## Heading level 3
 
 <!-- ⭐️ Paragraphs ⭐️ -->
 
@@ -30,37 +28,37 @@ This is the first line.
 <!-- ⭐️ Emphasis ⭐️ -->
 
 This is a **bold text**.  
-Yet another syntax __bold__.
+Yet another syntax **bold**.
 
 <!-- ⭐️ Italic ⭐️ -->
 
-He is *cool*.  
+He is _cool_.  
 Yet another syntax _italic_.
 
 <!-- ⭐️ Bold & Italic ⭐️ -->
 
-It's ***Important***.  
-___Important___.  
-very __*important*__.  
+It's **_Important_**.  
+**_Important_**.  
+very **_important_**.  
 **_Important_** text.
 
 <!-- ⭐️ Blockquotes ⭐️ -->
+
 > This is an awesome blockquote.
 
 > Blockquote with multiple paragraphs
-> 
+>
 > This is the second paragraph.
 
 > First pragraph
 >
->> Nested pagraph
-
+> > Nested pagraph
 
 > ### Blockquotes with other elements
 >
 > - This is awesome
-> 
-> *Everything* works great.
+>
+> _Everything_ works great.
 
 <!-- ⭐️ LISTS ⭐️ -->
 
@@ -70,29 +68,48 @@ very __*important*__.
 2. Second item
 3. Third item
 
-1. First item
-2. Second item
+4. First item
+5. Second item
    1. Indented item
    2. Another indented item
-  
+
 # Unordered lists
 
 - First item
 - Second item
-  
-+ First item
-* Second item
-- Third item
 
-- First item
+* First item
+
 - Second item
+
+* Third item
+
+* First item
+* Second item
   - Indented item
   * Yet another indented item
 
-* This is the first list item.
-* Here's another one
+- This is the first list item.
+- Here's another one
 
-	Cool a paragraph between lis item
-	> A blockquote looks great here.
+  Cool a paragraph between lis item
 
-* And here's the third one
+  > A blockquote looks great here.
+
+- And here's the third one
+
+<!-- ⭐️ Code Blocks ⭐️ -->
+
+# Code Blocks
+
+1.  Open the file.
+2.  Find the following code block on line 21:
+
+        <html>
+        	<head>
+        		<title>Test</title>
+        	</head>
+        	<body></body>
+        </html>
+
+3.  Update the title to match the name or your website.
