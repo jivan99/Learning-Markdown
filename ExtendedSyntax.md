@@ -70,3 +70,11 @@ Second Term
 : This is one definition of the second term.
 : This is another definition of the second term.
 
+# Strikethrough
+
+~~Strikethrough~~
+
+# Task Lists
+
+- [x] Complete Markdown guide
+- [ ] Merge the branches to master branch
