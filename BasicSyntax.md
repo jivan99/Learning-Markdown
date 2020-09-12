@@ -62,3 +62,37 @@ very __*important*__.
 > 
 > *Everything* works great.
 
+<!-- ⭐️ LISTS ⭐️ -->
+
+# Ordered Lists
+
+1. First item
+2. Second item
+3. Third item
+
+1. First item
+2. Second item
+   1. Indented item
+   2. Another indented item
+  
+# Unordered lists
+
+- First item
+- Second item
+  
++ First item
+* Second item
+- Third item
+
+- First item
+- Second item
+  - Indented item
+  * Yet another indented item
+
+* This is the first list item.
+* Here's another one
+
+	Cool a paragraph between lis item
+	> A blockquote looks great here.
+
+* And here's the third one
